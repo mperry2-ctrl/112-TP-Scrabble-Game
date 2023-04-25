@@ -1,2 +1,2 @@
-# 112-TP-Scrabble-Game
-I created a copy of the well-known game Scrabble for my CMU 15-112 Term Project. There is pass and play gameplay and a computer to play against based on simple heuristic. 
+# 112-TP-Scrabble
+I created a copy of the well-known game Scrabble for my CMU 15-112 Term Project. There is pass and play gameplay and a computer to play against based on simple heuristic. This program uses CMU Graphics to run, which can be downloaded here https://academy.cs.cmu.edu/desktop. Put scrabble_main.py in the same folder that the cmu_graphics folder is kept in. The images RulesScreen and ScrabbleStart should be in a folder labeled "images" in the same folder. Once all this is set up, you can run the python program and play Scrabble. 
