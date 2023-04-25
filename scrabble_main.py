@@ -15,21 +15,6 @@ with open('wordlist.txt', 'r') as f:
         scrabbleDictionary.add(line[:-1].upper())
 
 
-# GAME START
-# HAND FOR PLAYER
-# HAND FOR COMPUTER
-# BOARD LEGAL CHECK
-# WORD DICTIONARY
-# MAKE A MOVE
-# SCORE A MOVE
-#      DOUBLES/TRIPLES
-#      SCRABBLE BONUS
-# REFILL HAND
-# KEEP TRACK OF SCORE
-# GAME END
-
-# BOARD CREATER
-
 
 #Scrabble feature
 specialTiles = [(0, 0, 'red'), (0, 3, 'cyan'), (0, 7, 'red'), (0, 11, 'cyan'), (0, 14, 'red'),
